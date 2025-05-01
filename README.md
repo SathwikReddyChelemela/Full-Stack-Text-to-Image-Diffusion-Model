@@ -88,5 +88,5 @@ This project presents a full-stack implementation of a **Latent Diffusion Model*
 
 ## 🧑‍💻 Authors
 
-- Sathwik Reddy Chelemela – [Portfolio](https://chelemelasathwik.me)
+- Sathwik Reddy Chelemela – [Portfolio](https://sathwikreddychelemela.vercel.app/)
 - Northeastern University, GenAI & Deep Models, Spring 2025
